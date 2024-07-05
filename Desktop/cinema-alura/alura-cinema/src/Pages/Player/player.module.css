@@ -1,0 +1,18 @@
+iframe{
+    height: 80vh;
+    width: 80vw;
+}
+
+.container{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+}

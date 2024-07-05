@@ -1,0 +1,7 @@
+.texto{
+    font-size: 1.1175rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
